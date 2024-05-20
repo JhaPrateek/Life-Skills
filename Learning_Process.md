@@ -1,4 +1,4 @@
-## What is the Feynman Technique? Explain in 1 line.
+## What is the Feynman Technique? 
 
    Teaching a concept in simple terms, identifying gaps in our understanding, reviewing, and simplifying further until we grasp it completely.
 
