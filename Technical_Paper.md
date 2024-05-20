@@ -17,7 +17,7 @@ Java Spring Boot is well-known for making web application development straightfo
 ## Disadvantages of Spring MVC Framework
 
 1. It has high complexity to develop the applications using this pattern.
-2. It is unsuitable for small applications, affecting the application’s performance and design.
+2. It is unsuitable for small applications, affecting their performance and design.
 
 ## Design Ideas for Spring Boot Applications
 
@@ -26,3 +26,9 @@ Java Spring Boot is well-known for making web application development straightfo
 3. Frontend Frameworks: Pair Spring Boot with frontend frameworks such as Angular, React, or Vue.js to create a modern, responsive user interface.
 4. Caching: Boost performance by implementing caching with tools like Redis or Memcached.
 5. Security: Use Spring Security to ensure strong authentication and authorization for your application.
+
+### Reference
+
+Link 1 - https://medium.com/@TechiesSpot/mastering-mvc-in-java-spring-boot-a-comprehensive-guide-f7353a06fd61#:~:text=Java%20Spring%20Boot%2C%20a%20popular,application%20more%20organized%20and%20maintainable.
+
+Link 2 - https://www.javatpoint.com/spring-mvc-tutorial
