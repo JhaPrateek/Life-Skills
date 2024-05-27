@@ -1,3 +1,5 @@
+# Grit and Growth Mindset
+
 ## Paraphrase  the Grit video in a few lines.
 
 Talent alone does not guarantee success because it is merely a starting point. True achievement requires persistent effort and the ability to endure challenges. 
